@@ -1,0 +1,14 @@
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/service/UISchemaService.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/model/Note.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/UISchema.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/NavigationAction.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/controller/UISchemaController.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/ActionResponse.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/ActionRequest.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/UISchemaResponse.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/repository/NoteRepository.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/config/DataInitializer.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/UIItem.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/dto/NavigationConfig.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/DivKitDemoApplication.java
+/Users/lexone/Work/SwiftSoft/Projects/sbermobile-ios/divkit-demo/backend/src/main/java/com/divkit/demo/service/NoteService.java
